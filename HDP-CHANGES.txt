@@ -125,3 +125,4 @@ BUG FIXES
   SPARK-23815   Spark writer dynamic partition overwrite mode may fail to write output on multi level partition
   SPARK-28054   Fix error when insert Hive partitioned table dynamically where partition name is upper case
   SPARK-28054   Fix error when insert Hive partitioned table dynamically where partition name is upper case
+  SPARK-28054   move the bug fix closer to where causes the issue
